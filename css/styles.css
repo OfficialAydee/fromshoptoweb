@@ -10542,8 +10542,8 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("https://pro2-bar-s3-cdn-cf.myportfolio.com/f66a3c4f-3966-4874-842d-7f415b941052/baa85e32-0664-4518-82de-4bc8dd10139a_rw_1920.gif?h=8c43872f35e33bdd22c5537444791eae.png");
-  background-position: center;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("https://media.giphy.com/media/yaUGmPqPJzdX0RD6EF/giphy.gif);
+ background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
